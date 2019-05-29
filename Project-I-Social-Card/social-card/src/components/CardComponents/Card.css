@@ -24,6 +24,8 @@ a {
 }
 
 .cardContent {
+    border-bottom-left-radius: .4rem;
+    border-bottom-right-radius: .4rem;
     border: 1px solid lightgrey;
 }
 
@@ -41,6 +43,5 @@ a {
 .cardContent a {
     color: grey;
     margin-left: 20px;
-
 }
 

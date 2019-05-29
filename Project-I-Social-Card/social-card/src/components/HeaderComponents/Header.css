@@ -3,7 +3,7 @@
 .headerContainer {
     /* max-width: 900px; */
     width: 100%;
-    border: 1px solid dodgerblue;
+    padding: 0 0 20px 0;
 }
 
 .headerTitle {
