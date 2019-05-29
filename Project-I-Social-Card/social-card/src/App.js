@@ -3,7 +3,7 @@ import './App.css';
 import HeaderContainer from './components/HeaderComponents/HeaderContainer';
 
 const App = () => {
-  return ( <div>
+  return ( <div className="appContainer">
     <HeaderContainer />
   </div>
   );

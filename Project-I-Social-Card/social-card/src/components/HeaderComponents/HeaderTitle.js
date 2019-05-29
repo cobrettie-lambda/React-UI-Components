@@ -1,13 +1,15 @@
 import React from 'react';
 import './Header.css';
+import './HeaderContent'
+import HeaderContent from './HeaderContent';
 
 const HeaderTitle = () => {
     return (
-        <div className="headerWrapper">
-            <div className="headerTitle">Lambda School</div>
-            <span>@lambdaschool</span>
-            <span>26 jan</span>
-        </div>
+            <div className="headerTitle">
+                <h4>Lambda School</h4>
+                <span>@lambdaschool</span>
+                <span>&#183; 26 jan</span>
+            </div>
     );
 }
 
