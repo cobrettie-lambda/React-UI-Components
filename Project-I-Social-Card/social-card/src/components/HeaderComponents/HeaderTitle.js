@@ -8,7 +8,8 @@ const HeaderTitle = () => {
             <div className="headerTitle">
                 <h4>Lambda School</h4>
                 <span>@lambdaschool</span>
-                <span>&#183; 26 jan</span>
+                <span>&#183;</span>
+                <span>26 jan</span>
             </div>
     );
 }
