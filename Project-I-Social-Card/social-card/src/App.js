@@ -1,11 +1,13 @@
 import React from 'react';
 import './App.css';
+import HeaderContainer from './components/HeaderComponents/HeaderContainer';
+import ImageThumbnail from './components/HeaderComponents/ImageThumbnail';
 
 const App = () => {
-  return ( < div >
-
-    <
-    /div>
+  return ( <div>
+    <HeaderContainer />  
+    <ImageThumbnail />
+  </div>
   );
 };
 
