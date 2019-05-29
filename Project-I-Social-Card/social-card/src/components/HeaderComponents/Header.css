@@ -1,1 +1,6 @@
 /* All styles for your header Components live here */
+
+div {
+    border: 1px solid dodgerblue;
+    margin: 0 auto;
+}
