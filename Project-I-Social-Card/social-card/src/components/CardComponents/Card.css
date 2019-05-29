@@ -18,15 +18,29 @@ a {
 }
 
 .cardContentContain {
-    width: 61.7%;
+    width: 62%;
     margin-left: 80px;
     margin-top: -10px;
-    border: 1px solid lightgrey;
 }
 
 .cardContent {
+    border: 1px solid lightgrey;
 }
 
-.cardContent h2 {
-    /* padding: 30px 0 0 0; */
+.cardContent h4 {
+    color: black;
+    margin-left: 20px;
 }
+
+.cardContent p {
+    color: #373737;
+    margin-left: 20px;
+
+}
+
+.cardContent a {
+    color: grey;
+    margin-left: 20px;
+
+}
+

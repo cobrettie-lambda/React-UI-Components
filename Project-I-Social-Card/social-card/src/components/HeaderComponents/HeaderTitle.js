@@ -1,7 +1,6 @@
 import React from 'react';
 import './Header.css';
 import './HeaderContent'
-import HeaderContent from './HeaderContent';
 
 const HeaderTitle = () => {
     return (
