@@ -12,3 +12,10 @@
     padding: 10px 0;
     font-size: 1.1rem;
 }
+
+.footerIcons button {
+    font-size: 100%;
+    font-family: inherit;
+    border: 0;
+    padding: 0;
+}
