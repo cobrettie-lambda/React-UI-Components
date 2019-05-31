@@ -1,8 +1,10 @@
 import React from 'react';
 import './Button.css';
 
-function numBtn (props) {
-    return ();
+const NumberBtn = props => {
+    return (
+        <button className={props.buttonStyle}>{props.number}</button>
+    );
 }
 
-export default numBtn;
+export default NumberBtn;
