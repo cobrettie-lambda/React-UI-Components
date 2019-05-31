@@ -1,10 +1,10 @@
 .clear {
     width: 282px;
     height: 94px;;
-    font-size: 60px;
-    background: azure;
-    color: midnightblue;
-    border: 0;
+    font-size: 50px;
+    background: #fefefe;
+    color: #373737;
+    border: 1px solid grey;
   }
   .clear:hover {
     background: midnightblue;
@@ -13,36 +13,37 @@
   .action {
     width: 94px;
     height: 94px;
-    font-size: 60px;
+    font-size: 50px;
     background: darkred;
-    color: lightcoral;
-    border: 1px solid lightcoral;
+    color: #fefefe;
+    border: 1px solid grey;
+    margin: 0;
   }
   .action:hover {
     background: lightcoral;
-    color: darkred;
+    color: #fefefe;
   }
   .number {
     width: 94px;
     height: 94px;
-    font-size: 60px;
-    background: steelblue;
-    color: midnightblue;
-    border: 1px solid azure;
+    font-size: 50px;
+    background: #fefefe;
+    color: #373737;
+    border: 1px solid grey;
   }
   .number:hover {
     background: midnightblue;
-    color: steelblue;
+    color: #fefefe;
   }
   .zero {
     width: 282px;
     height: 94px;
-    font-size: 60px;
-    background: steelblue;
-    color: midnightblue;
-    border: 1px solid azure;
+    font-size: 50px;
+    background: #fefefe;
+    color: #373737;
+    border: 1px solid #373737;
   }
   .zero:hover {
     background: midnightblue;
-    color: steelblue;
+    color: #fefefe;
   } 
