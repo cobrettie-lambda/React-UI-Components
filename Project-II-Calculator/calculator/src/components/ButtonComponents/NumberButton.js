@@ -7,4 +7,4 @@ const NumberButton = props => {
     );
 };
 
-export default NumberButtonn;
+export default NumberButton;
