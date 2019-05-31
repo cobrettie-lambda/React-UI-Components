@@ -7,6 +7,6 @@ const ActionButton = props => {
             <button className={props.buttonStyle}>{props.symbol}</button>
         </div>
     );
-}
+};
 
 export default ActionButton;
