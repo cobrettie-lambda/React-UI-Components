@@ -7,7 +7,7 @@
     border: 1px solid grey;
   }
   .clear:hover {
-    background: midnightblue;
+    background: dodgerblue;
     color: azure;
   }
   .action {
@@ -32,7 +32,7 @@
     border: 1px solid grey;
   }
   .number:hover {
-    background: midnightblue;
+    background: dodgerblue;
     color: #fefefe;
   }
   .zero {
@@ -44,6 +44,6 @@
     border: 1px solid #373737;
   }
   .zero:hover {
-    background: midnightblue;
+    background: dodgerblue;
     color: #fefefe;
   } 
