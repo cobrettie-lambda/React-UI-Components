@@ -1,1 +1,50 @@
 /* All styles for your Card Components live here */
+
+a {
+    text-decoration: none;
+}
+
+.bannerImg {
+    width: 62%;
+    margin-left: 80px;
+    margin-bottom: 0;
+    border-top-left-radius: .4rem;
+    border-top-right-radius: .4rem;
+
+}
+
+.CardContain {
+    /* cursor: pointer; */
+}
+
+.cardContentContain {
+    width: 62%;
+    margin-left: 80px;
+    margin-top: -10px;
+}
+
+.cardContent {
+    border-bottom-left-radius: .4rem;
+    border-bottom-right-radius: .4rem;
+    border: 1px solid lightgrey;
+    padding-bottom: 20px;
+}
+
+.cardContent h4 {
+    color: black;
+    margin-left: 20px;
+}
+
+.cardContent p {
+    color: #373737;
+    margin-left: 20px;
+
+}
+
+.cardContent a {
+    color: grey;
+    margin-left: 20px;
+}
+
+
+

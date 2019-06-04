@@ -1,0 +1,22 @@
+/* All styles for footer */
+
+.footerContainer {
+    width: 300px;
+    margin-left: 80px;
+}
+
+.footerIcons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px 0;
+    font-size: 1.1rem;
+}
+
+.footerIcons button {
+    cursor: pointer;
+    font-size: 100%;
+    font-family: inherit;
+    border: 0;
+    padding: 0;
+}
